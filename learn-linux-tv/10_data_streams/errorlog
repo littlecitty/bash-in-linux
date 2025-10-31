@@ -1,0 +1,38 @@
+warning: dependency cycle detected:
+warning: xdg-desktop-portal-kde will be installed before its plasma-workspace dependency
+:: Proceed with installation? [Y/n] error: failed to commit transaction (conflicting files)
+linux-firmware-nvidia: /usr/lib/firmware/nvidia/ad103 exists in filesystem
+linux-firmware-nvidia: /usr/lib/firmware/nvidia/ad104 exists in filesystem
+linux-firmware-nvidia: /usr/lib/firmware/nvidia/ad106 exists in filesystem
+linux-firmware-nvidia: /usr/lib/firmware/nvidia/ad107 exists in filesystem
+warning: dependency cycle detected:
+warning: xdg-desktop-portal-kde will be installed before its plasma-workspace dependency
+:: Proceed with installation? [Y/n] error: failed to commit transaction (conflicting files)
+linux-firmware-nvidia: /usr/lib/firmware/nvidia/ad103 exists in filesystem
+linux-firmware-nvidia: /usr/lib/firmware/nvidia/ad104 exists in filesystem
+linux-firmware-nvidia: /usr/lib/firmware/nvidia/ad106 exists in filesystem
+linux-firmware-nvidia: /usr/lib/firmware/nvidia/ad107 exists in filesystem
+warning: dependency cycle detected:
+warning: xdg-desktop-portal-kde will be installed before its plasma-workspace dependency
+:: Proceed with installation? [Y/n] y
+error: failed to commit transaction (conflicting files)
+linux-firmware-nvidia: /usr/lib/firmware/nvidia/ad103 exists in filesystem
+linux-firmware-nvidia: /usr/lib/firmware/nvidia/ad104 exists in filesystem
+linux-firmware-nvidia: /usr/lib/firmware/nvidia/ad106 exists in filesystem
+linux-firmware-nvidia: /usr/lib/firmware/nvidia/ad107 exists in filesystem
+warning: dependency cycle detected:
+warning: xdg-desktop-portal-kde will be installed before its plasma-workspace dependency
+:: Proceed with installation? [Y/n] y
+error: failed to commit transaction (conflicting files)
+linux-firmware-nvidia: /usr/lib/firmware/nvidia/ad103 exists in filesystem
+linux-firmware-nvidia: /usr/lib/firmware/nvidia/ad104 exists in filesystem
+linux-firmware-nvidia: /usr/lib/firmware/nvidia/ad106 exists in filesystem
+linux-firmware-nvidia: /usr/lib/firmware/nvidia/ad107 exists in filesystem
+warning: dependency cycle detected:
+warning: xdg-desktop-portal-kde will be installed before its plasma-workspace dependency
+:: Proceed with installation? [Y/n] y
+error: failed to commit transaction (conflicting files)
+linux-firmware-nvidia: /usr/lib/firmware/nvidia/ad103 exists in filesystem
+linux-firmware-nvidia: /usr/lib/firmware/nvidia/ad104 exists in filesystem
+linux-firmware-nvidia: /usr/lib/firmware/nvidia/ad106 exists in filesystem
+linux-firmware-nvidia: /usr/lib/firmware/nvidia/ad107 exists in filesystem

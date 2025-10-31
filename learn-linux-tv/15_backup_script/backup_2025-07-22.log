@@ -1,0 +1,40 @@
+sending incremental file list
+created directory backup//current
+./
+asdf.txt
+
+sent 126 bytes  received 76 bytes  404.00 bytes/sec
+total size is 0  speedup is 0.00
+sending incremental file list
+asdf.txt
+sending incremental file list
+deleting backup/
+./
+asdf.txt
+sending incremental file list
+deleting backup/
+./
+asdf.txt
+sending incremental file list
+deleting backup/
+./
+asdf.txt
+sending incremental file list
+created directory backup//current
+./
+asdf.txt
+
+sent 144 bytes  received 76 bytes  440.00 bytes/sec
+total size is 10  speedup is 0.05
+sending incremental file list
+./
+hello.txt
+
+sent 154 bytes  received 38 bytes  384.00 bytes/sec
+total size is 10  speedup is 0.05
+sending incremental file list
+
+sent 108 bytes  received 12 bytes  240.00 bytes/sec
+total size is 10  speedup is 0.08
+sending incremental file list
+asdf.txt

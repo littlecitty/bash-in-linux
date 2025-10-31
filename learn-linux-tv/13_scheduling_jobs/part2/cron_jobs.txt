@@ -1,0 +1,12 @@
+#way to run cron jobs
+$ crontab -e
+#select text editor
+#add job that you like eg:
+
+# m h dom mon dow command
+30 3 7 4 /usr/local/bin/script
+30 > min
+3  > hr
+10 > date of month like: january 10, december 10
+7 > july
+4 > thursday #because of white guy style week monday to sunday not sunday to saturday

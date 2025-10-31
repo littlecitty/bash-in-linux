@@ -1,0 +1,11 @@
+#to run command directly in terminal or knosole to do maths
+expr 30 + 40 #to add
+expr 30 - 40 #to subtract
+expr 30 \* 40 #to multiply
+
+#using variable to do math
+mynum1=100
+echo $mynum1
+expr $mynum1 + 50
+mynum2=88
+expr $mynum1 + $mynum2

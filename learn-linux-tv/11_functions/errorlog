@@ -1,0 +1,10 @@
+warning: dependency cycle detected:
+warning: xdg-desktop-portal-kde will be installed before its plasma-workspace dependency
+:: Proceed with installation? [Y/n] y
+warning: failed to retrieve some files
+error: failed to commit transaction (unexpected error)
+warning: dependency cycle detected:
+warning: xdg-desktop-portal-kde will be installed before its plasma-workspace dependency
+:: Proceed with installation? [Y/n] y
+warning: failed to retrieve some files
+error: failed to commit transaction (unexpected error)
